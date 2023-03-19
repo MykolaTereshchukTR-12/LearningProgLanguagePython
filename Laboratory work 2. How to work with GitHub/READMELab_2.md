@@ -1,6 +1,6 @@
 # LearningProgLanguagePython
 
-![Image alt](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/raw/MaiNBrancH/Laboratory%20work%202.%20How%20to%20work%20with%20GitHub/READMELab_2.md/Python.svg.png)
+![Image alt](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/raw/MaiNBrancH/Laboratory%20work%202.%20How%20to%20work%20with%20GitHub/READMELab_2.md/Python.png)
 
 I used the GitHub client to clone the repository. 
 You can also use the command: git clone <HTTPS-link_to_repository>
