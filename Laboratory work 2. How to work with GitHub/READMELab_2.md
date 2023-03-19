@@ -25,3 +25,6 @@ Since I was working with the file READMELab_2.md, Git does not create a new comm
 However, Git specified a reason inside the file that described all the new changes. 
 I manually resolved the conflict by merging all the changes and editing the file itself. 
 After it Git does not detect a conflict and successfully committed the file READMELab_2.md.
+
+
+Changes made in the Web version of the repository are not reflected in the local one.
