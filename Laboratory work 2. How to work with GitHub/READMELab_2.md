@@ -19,9 +19,9 @@ This is very useful when there is a complex project where tasks and parts are de
 
 There are two types of branch merging work in Git: rewinding and full merging. 
 If the new commit is a direct descendant of a previous commit, then Git just moves the HEAD pointer to the newer commit. 
-When merging different indirect commits of different branches, Git looks for the shared past commit of those branches, and then uses the new and shared branch commits to create a common commit that will contain all the changes in the newly created branch commits. 
+When merging different indirect commits of different branches, Git looks for the shared past commit of those branches, and then uses the new and shared branch commits to create a common commit that will contain all the changes. 
 However, there is a great chance of a conflict, which I also had. 
 Since I was working with the file READMELab_2.md, Git does not create a new commit. 
-However, I specified a reason inside the file that described all the new changes. 
+However, Git specified a reason inside the file that described all the new changes. 
 I manually resolved the conflict by merging all the changes and editing the file itself. 
 After it Git does not detect a conflict and successfully committed the file READMELab_2.md.
