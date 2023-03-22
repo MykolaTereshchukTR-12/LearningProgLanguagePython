@@ -30,3 +30,5 @@ After it Git does not detect a conflict and successfully committed the file READ
 
 Changes made in the Web version of the repository are not reflected in the local one.
 The command is used to pull and download content from a remote repository and immediately update the local repository with that content: git pull. 
+
+![PythoN](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/blob/MaiNBrancH/Laboratory%20work%202.%20How%20to%20work%20with%20GitHub/PythoN.jpg)
