@@ -1,14 +1,12 @@
 Laboratory work #3.
 
+
 In this laboratory work, it was necessary to select a pair of numbers whose sum is equal to 10. 
-
 The numbers themselves are entered through the input() function.
-
 For the program to work properly, you need to enter the size of your array (the number of numbers) that the program will process. 
-
 Then enter your numbers in order.
-
 The code looks like this:
+
 
 ```python
 def findten(l): #Функція для пошуку пари чисел, сума яких дає 10
@@ -31,14 +29,13 @@ for i in range(int(input("Input size of list: "))): #Спочатку ми вв�
 findten(L) #Звертаємось до функції findten, котра буде шукати пари чисел, сума яких дає 10
 ```
 
+
 Some examples of code:
 
-![Example1][Example1]
+![Example1](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example1.jpg)
 
-![Example2][Example2]
 
-![Example3][Example3]
+![Example2](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example2.jpg)
 
-[Example1]: https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example1.jpg
-[Example2]: https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example2.jpg
-[Example3]: https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example3.jpg
+
+![Example3](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example3.jpg)
