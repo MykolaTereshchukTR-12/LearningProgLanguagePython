@@ -1,11 +1,12 @@
-Laboratory work #3.
+Лабораторна робота №3: Знайти 10-ку
 
 
-In this laboratory work, it was necessary to select a pair of numbers whose sum is equal to 10. 
-The numbers themselves are entered through the input() function.
-For the program to work properly, you need to enter the size of your array (the number of numbers) that the program will process. 
-Then enter your numbers in order.
-The code looks like this:
+У даній лабораторній роботі необхідно було вибрати пару чисел, сума яких дорівнює 10.
+Програма отримує числа через функцію input().
+Для коректної роботи програми вам потрібно спочатку ввести розмір вашого масиву (кількість чисел), які програма оброблятиме, опісля введіть числа по порядку.
+
+
+Код програми виглядає так:
 
 
 ```python
@@ -29,8 +30,8 @@ for i in range(int(input("Input size of list: "))): #Спочатку ми вв�
 findten(L) #Звертаємось до функції findten, котра буде шукати пари чисел, сума яких дає 10
 ```
 
+Деякі приклади виконання коду:
 
-Some examples of code:
 
 ![Example1](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/blob/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example1.jpg)
 
