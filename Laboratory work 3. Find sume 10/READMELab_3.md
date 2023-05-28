@@ -32,10 +32,10 @@ findten(L) #Звертаємось до функції findten, котра бу�
 
 Some examples of code:
 
-![Example1](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example1.jpg)
+![Example1](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/blob/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example1.jpg)
+
+            
+![Example2](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/blob/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example2.jpg)
 
 
-![Example2](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example2.jpg)
-
-
-![Example3](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example3.jpg)
+![Example3](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/blob/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example3.jpg)
