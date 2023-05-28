@@ -1,0 +1,23 @@
+Опис проєкту:
+"Num2Word"
+Цей модуль перетворює будь-яке число/цифру на слово. 
+Наприклад, якщо передати число "98498", воно поверне 
+"дев'яносто вісім тисяч чотириста дев'яносто вісім".
+
+Інсталяція:
+Виконайте таку команду для встановлення проекту: pip install num2word
+
+Використання:
+# Import word from num2word
+ from num2word import word
+
+ # Generate 'Nine Thousand eighty four'
+ word('9284') or word(9284)
+
+ #other examples
+ <!-- you can use any bigger number -->
+ a = 33221884729877832
+ print(word(a)) /*It will print the output*/
+ b = '99320489432099000982409203'
+ b = word(b)
+ <print(b)>/* will print out the the expected output */
