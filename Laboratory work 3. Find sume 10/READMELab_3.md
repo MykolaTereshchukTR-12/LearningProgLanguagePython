@@ -5,6 +5,7 @@ For the program to work properly, you need to enter the size of your array (the 
 Then enter your numbers in order.
 The code looks like this:
 
+```python
 def findten(l): #Функція для пошуку пари чисел, сума яких дає 10
     Lpary = [] #Створюємо масив для розміщення пари, сума яких дасть 10
     for i in l: #Цикл пройде всі числа масиву
@@ -23,7 +24,9 @@ L = [] #Створюємо пустий масив для запису введ�
 for i in range(int(input("Input size of list: "))): #Спочатку ми вводимо розмір масиву, конвертуємо у тип int і виконуємо цикл відповідно до значення розміру масиву
     L.append(int(input("Input numbers: "))) #Окремо вводимо числа масиву
 findten(L) #Звертаємось до функції findten, котра буде шукати пари чисел, сума яких дає 10
+```
 
 Some examples of code:
-
-
+![Example1](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example1.jpg)
+![Example1](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example1.jpg)
+![Example1](https://github.com/MykolaTereshchukTR-12/LearningProgLanguagePython/edit/MaiNBrancH/Laboratory%20work%203.%20Find%20sume%2010/Example1.jpg)
